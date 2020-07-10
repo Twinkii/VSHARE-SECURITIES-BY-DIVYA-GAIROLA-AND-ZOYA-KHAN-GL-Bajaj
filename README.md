@@ -1,10 +1,10 @@
 # VSHARE-APP
 
 The repository contains following:
-UML Diagrams: USE CASE, Class, Sequence, Activity Diagram
-Frontend of REST API: VshareFrontAngular(Angular)
-Backend of REST API: VShare(Spring,Maven)
-Database: MySQL
+#UML Diagrams: USE CASE, Class, Sequence, Activity Diagram 
+#Frontend of REST API: VshareFrontAngular(Angular)
+#Backend of REST API: VShare(Spring,Maven)
+#Database: MySQL
 
 The project project implements a stock broking app called 'VShare'.
 
